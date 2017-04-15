@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./style.xsl"?>
+
+<fonts>
+	<font>
+		<name>Aesomatica</name>
+
+		<charwidth>16</charwidth>
+		<charheight>16</charheight>
+
+		<files>
+			<psf>True</psf>
+			<psfu>False</psfu>
+			<bmp256>True</bmp256>
+		</files>
+	</font>
+	<font>
+		<name>Anikki</name>
+
+		<charwidth>8</charwidth>
+		<charheight>8</charheight>
+
+		<files>
+			<psf>True</psf>
+			<psfu>False</psfu>
+			<bmp256>True</bmp256>
+		</files>
+	</font>
+	<font>
+		<name>Anikki</name>
+
+		<charwidth>10</charwidth>
+		<charheight>10</charheight>
+
+		<files>
+			<psf>True</psf>
+			<psfu>False</psfu>
+			<bmp256>True</bmp256>
+		</files>
+	</font>
+	<font>
+		<name>Anikki</name>
+
+		<charwidth>16</charwidth>
+		<charheight>16</charheight>
+
+		<files>
+			<psf>True</psf>
+			<psfu>False</psfu>
+			<bmp256>True</bmp256>
+		</files>
+	</font>
+	<font>
+		<name>Anno</name>
+
+		<charwidth>16</charwidth>
+		<charheight>16</charheight>
+
+		<files>
+			<psf>True</psf>
+			<psfu>False</psfu>
+			<bmp256>True</bmp256>
+		</files>
+	</font>
+	<font>
+		<name>drdos</name>
+
+		<charwidth>8</charwidth>
+		<charheight>8</charheight>
+
+		<files>
+			<psf>False</psf>
+			<psfu>True</psfu>
+			<bmp256>True</bmp256>
+		</files>
+	</font>
+	<font>
+		<name>Taffer</name>
+
+		<charwidth>10</charwidth>
+		<charheight>10</charheight>
+
+		<files>
+			<psf>True</psf>
+			<psfu>False</psfu>
+			<bmp256>True</bmp256>
+		</files>
+	</font>
+</fonts>
